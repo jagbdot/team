@@ -301,7 +301,7 @@ main {
 
 .slidenav__preview {
 	pointer-events: auto;
-	color: #f0a85e;
+	color: #000;
 	position: absolute;
 	bottom: 30px;
 	transform: translateX(-50%);
