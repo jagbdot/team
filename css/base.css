@@ -224,7 +224,8 @@ main {
 .slide__number {
 	font-size: 1.6rem;
 	position: absolute;
-	top: 5.25rem;
+	color: white;
+	top: 9.45rem;
 	font-weight: 100;
 	opacity: 0;
 }
